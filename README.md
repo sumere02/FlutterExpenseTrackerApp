@@ -1,16 +1,3 @@
-# expense_tracker
+<img src = "https://github.com/sumere02/FlutterExpenseTrackerApp/assets/98668083/4d7156de-dbf3-4e48-bca7-3df6574781ff" width = "250"> <img src = "https://github.com/sumere02/FlutterExpenseTrackerApp/assets/98668083/0a9ce41a-c010-412b-bd1f-429230f303e6" width = "250">
+<img src = "https://github.com/sumere02/FlutterExpenseTrackerApp/assets/98668083/91411eaf-142e-408c-ba20-0ec4884065ea" width = "250">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
